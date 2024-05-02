@@ -9,7 +9,7 @@ I tested my independent variables for autocorrelation using the durbin-watson te
 And then i checked my dependent variable for a normalty test, using the histogram plot, after which i checked my independent variables for linearity test.
 
 
-I obtained the summary of my model
+I obtained the summary of my model, which showed that all the independent variables had a positive correlation with the dependent variable...
 
 I then checked the homoscedasticity of my model to ensure that my model is a good fit for the data, where the residuals showed no bias, so we can say i can say my model fits the assumption of homoscedasticity.
 
